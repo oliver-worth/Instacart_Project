@@ -1,4 +1,6 @@
 # Instacart Customer Behavior Analysis
+![Instacart](instacart.png)
+
 ## Project Overview
 This project involves exploring and analyzing a dataset from Instacart, a popular grocery delivery platform. The dataset was released as part of a Kaggle competition in 2017 and has been modified for this project. The goal is to gain insights into the shopping habits of Instacart customers by performing data cleaning, preprocessing, and exploratory data analysis (EDA).
 
